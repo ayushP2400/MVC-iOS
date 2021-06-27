@@ -7,4 +7,4 @@ to show an api demo i'm using Dummy apis
 
 https://dummy.restapiexample.com
 
-i have implemented the GET and POST methods, further you can explore more funcions in utility class.
+i have implemented the GET and POST methods, further you can explore more functions in utility class.
